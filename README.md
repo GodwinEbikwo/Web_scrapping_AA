@@ -35,6 +35,8 @@ The dataset was explored using various visualizations such as histograms, scatte
 
 * The newest car in the dataset is the Toyota Yaris Cross 1.5 Hybrid Icon 5dr CVT with a price of 27290, mileage of 998 and a year of 2023.
 
+* Cars with higher mileage tend to have lower prices, and vice versa. This is not surprising, as higher mileage is generally associated with more wear and tear on the vehicle, which can reduce its value
+
 * And many more you should look at :)
 
 ## Conclusion 
