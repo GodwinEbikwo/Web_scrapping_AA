@@ -16,15 +16,17 @@ You will need to have Python 3 installed on your machine, as well as the followi
 * time
 * BeautifulSoup
 
-# Data Cleaning
+# Data Cleaning 🧼
 We started by checking for missing values and found that the dataset had missing values in several columns. We handled these missing values by filling them in with appropriate values. For example, for numerical columns like mileage and no_of_reviews, we filled in the missing values with the median value of the respective column. For categorical columns like fuel_type, we filled in the missing values with the mode value of the respective column.
 
 We also converted the data types of some columns to their appropriate types. For example, we converted the mileage column, which had commas in the numbers, to an integer type after removing the commas. We also renamed the semiauto category in the transmission column to semi auto.
 
 Overall, the cleaning and processing of the dataset was a crucial step in the analysis process, as it allowed us to work with a clean and structured dataset and draw meaningful insights from it.
 
-## Exploratory Data Analysis
+## Exploratory Data Analysis 🕵️‍♀️
 The dataset was explored using various visualizations such as histograms, scatterplots, and bar plots. The following insights were obtained from the analysis:
+
+* The average price of a car is £15619.97
 
 * The most popular car body type in the dataset is the Hatchback with 501 cars having this body type. Secondly, the SUV has 219 cars, and Estate comes in third with 45.
 * A majority of the cars in the dataset have a manual transmission, followed by automatic cars and then semi-automatics.
