@@ -54,6 +54,11 @@ Overall, this project has taught me valuable skills that I can use in future dat
 
 This project was completed as part of an Applied data science course at The University of Buckingham.
 
+## Future Work
+
+* Build a dashboard with streamlit.io and host it. 
+* Collect more data and build a classification model
+
 ** URL 🔗 **
 https://www.theaa.com/used-cars/displaycars?fullpostcode=MK181SF&travel=2000&page=
 
